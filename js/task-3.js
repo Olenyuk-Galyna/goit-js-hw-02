@@ -1,4 +1,6 @@
-
+function checkForSpam(message) {
+    
+}
 
 console.log(checkForSpam("Latest technology news")); // false
 console.log(checkForSpam("JavaScript weekly newsletter")); // false
